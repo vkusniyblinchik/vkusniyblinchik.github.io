@@ -171,3 +171,17 @@ footer {
 #gh-light:hover, #dc-light:hover, #steam-light:hover, #darkmode:hover {
 	background-color:#BABAE8;
 }
+
+#goback {
+	display: flex;
+    justify-content: center; 
+    align-items: center;
+}
+
+#404ftr {
+	height: 200px;
+}
+
+#001 {
+	text-align: center;
+}
